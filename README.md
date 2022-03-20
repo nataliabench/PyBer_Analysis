@@ -6,6 +6,8 @@ PyBer is a ride-sharing company who is conducting a market analysis to better un
 ## Results
 We created a bubble chart on the PyBer ridesharing data that gave a very clear indication on where more drivers were located per city.  The larger the bubble, the more drivers there were per city.  As you can see below, the most PyBer drivers were using the services in urban cities.
 
+![alt text](https://github.com/nataliabench/PyBer_Analysis/blob/eb1f50c9f2925fc0626eebf63cfc0419bad4d5bd/PyBer_RideSharingData.png)
+
 To determine the amount of rides by city type, we created a box and whisker plot.  This chart showed that rural cities had an average number of rides approximately four times lower than urban cities and about three and a half times lower than surburban cities.  In conclusion, urban cities have the largest percentages of 68.4% of total rides.  Suburban cities have 26.3% of total rides and lastly, rural cities contain about 5.3% of total rides.  Later, we develoepd a pie chart showing these percentages which was much quicker and easier to intepret.
 
 As for amount of drivers per city type, the number of urban drives is about nine times higher than the number of drivers in rural cities.  The number of suburban drivers is four times higher than the number of rural drivers.  We utilized a box and whisker plot and pie chart to convey these conclusions.
